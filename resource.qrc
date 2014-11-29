@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/Chess_project">
+        <file>Chess_project/pic/background.png</file>
+        <file>Chess_project/pic/blackadv.png</file>
+        <file>Chess_project/pic/blackboundary.png</file>
+        <file>Chess_project/pic/blackcan.png</file>
+        <file>Chess_project/pic/blackchar.png</file>
+        <file>Chess_project/pic/blackele.png</file>
+        <file>Chess_project/pic/blackgen.png</file>
+        <file>Chess_project/pic/blackhorse.png</file>
+        <file>Chess_project/pic/blacksod.png</file>
+        <file>Chess_project/pic/blue.png</file>
+        <file>Chess_project/pic/exit.png</file>
+        <file>Chess_project/pic/redadv.png</file>
+        <file>Chess_project/pic/redboundary.png</file>
+        <file>Chess_project/pic/redcan.png</file>
+        <file>Chess_project/pic/redchar.png</file>
+        <file>Chess_project/pic/redele.png</file>
+        <file>Chess_project/pic/redgen.png</file>
+        <file>Chess_project/pic/redhorse.png</file>
+        <file>Chess_project/pic/redsod.png</file>
+        <file>Chess_project/pic/regret.png</file>
+        <file>Chess_project/pic/restart.png</file>
+        <file>Chess_project/pic/01300000247881122610859882327.jpg</file>
+    </qresource>
+</RCC>
